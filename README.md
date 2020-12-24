@@ -1,4 +1,4 @@
-<div markdown="1" dir="rtl" styles="font-family: tahoma;">
+<div markdown="1" dir="rtl" style="font-family: tahoma;">
 # اکانت تون سیف Tunsafe
 پروکسی تلگرام اختصاصی را الان تجربه کنید
 - سرعت بالا
