@@ -15,7 +15,7 @@ http://bit.ly/mtproxy2019
 
 
 
-<div dir="rtl">
+<div markdown="1" dir="rtl">
 
 سلام دنیا
 
