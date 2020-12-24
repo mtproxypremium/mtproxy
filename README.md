@@ -8,7 +8,9 @@
 
 برای دریافت قیمت و نیز تنظیمات به تلفن زیر در واتس آپ پیام ارسال کنید.
 
-<div markdown="1" dir="ltr" style="font-family: tahoma; text-align: right;">+98 990 5294157</div>
+<div markdown="1" dir="ltr" style="font-family: tahoma; text-align: right;">
++98 990 5294157
+</div>
 
 #پروکسی تلگرام  
 #خرید-پروکسی-تلگرام  
