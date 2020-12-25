@@ -14,7 +14,7 @@
 - رمز اختصاصی
 - بدون تبلیغات آزاردهنده
 
-برای دریافت قیمت و نیز تنظیمات به صفحه اینستاگرام من دایرکت ارسال کنید.
+برای دریافت قیمت اکانت تونسیف به صفحه اینستاگرام دایرکت ارسال کنید.
 
 <div markdown="1" dir="ltr" style="font-family: tahoma; text-align: right;">
 <a href="https://www.instagram.com/tun.safe/?hl=en">@tun.safe</a>
